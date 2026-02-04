@@ -1,6 +1,6 @@
 # AIML Lab (Artificial Intelligence & Machine Learning)
 
-**University:** <Graphic Era University>  
+**University:** Graphic Era University 
 **Program:** B.Tech – Artificial Intelligence & Machine Learning  
 **Semester:** <Semester 2>  
 **Course:** AIML Lab  
@@ -61,10 +61,10 @@ This repository is strictly for **academic and educational purposes**.
 
 ## 👤 Author
 
-**Name:** <Sparsh Saxena>  
-**Roll No:** <Q70>  
+**Name:** Sparsh Saxena
+**Roll No:** Q70
 **Branch:** B.Tech – AI & ML  
-**Batch:** <2026>
+**Batch:** 2026
 
 
 
