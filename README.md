@@ -1,8 +1,8 @@
 # AIML Lab (Artificial Intelligence & Machine Learning)
 
-**University:** Graphic Era University 
+**University:** Graphic Era University      
 **Program:** B.Tech – Artificial Intelligence & Machine Learning  
-**Semester:** <Semester 2>  
+**Semester:** Semester 2  
 **Course:** AIML Lab  
 
 ---
@@ -34,9 +34,9 @@ Each experiment is documented, coded, and executed in `.ipynb` format for better
 ## 📂 Repository Structure
 
 AIML-Lab/
-├── Experiment-01.ipynb
-├── Experiment-02.ipynb
-├── Experiment-03.ipynb
+├── Experiment-01.ipynb     
+├── Experiment-02.ipynb     
+├── Experiment-03.ipynb     
 └── README.md
 
 
@@ -61,9 +61,9 @@ This repository is strictly for **academic and educational purposes**.
 
 ## 👤 Author
 
-**Name:** Sparsh Saxena
-**Roll No:** Q70
-**Branch:** B.Tech – AI & ML  
+**Name:** Sparsh Saxena    
+**Roll No:** Q70     
+**Branch:** B.Tech – AI & ML     
 **Batch:** 2026
 
 
